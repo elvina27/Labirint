@@ -1,0 +1,15 @@
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\bin\Debug\net6.0\Лабиринт.exe
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\bin\Debug\net6.0\Лабиринт.deps.json
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\bin\Debug\net6.0\Лабиринт.runtimeconfig.json
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\bin\Debug\net6.0\Лабиринт.dll
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\bin\Debug\net6.0\ref\Лабиринт.dll
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\bin\Debug\net6.0\Лабиринт.pdb
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\obj\Debug\net6.0\Лабиринт.csproj.AssemblyReference.cache
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\obj\Debug\net6.0\Лабиринт.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\obj\Debug\net6.0\Лабиринт.AssemblyInfoInputs.cache
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\obj\Debug\net6.0\Лабиринт.AssemblyInfo.cs
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\obj\Debug\net6.0\Лабиринт.csproj.CoreCompileInputs.cache
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\obj\Debug\net6.0\Лабиринт.dll
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\obj\Debug\net6.0\ref\Лабиринт.dll
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\obj\Debug\net6.0\Лабиринт.pdb
+D:\3 курс\Коноплев\Лабиринт\Лабиринт\obj\Debug\net6.0\Лабиринт.genruntimeconfig.cache
